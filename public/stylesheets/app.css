@@ -1,0 +1,24 @@
+.thumbnail img{
+	width:100%;
+}
+
+.thumbnail{
+	padding:0;
+}
+
+.thumbnail .caption-full{
+	padding:9px;
+}
+
+.size{
+	font-size:2.5em;
+	color: rgba(255,10,20,1);
+	font-weight: bold;
+}
+
+.delete-form{
+	display: inline;
+}
+
+
+
